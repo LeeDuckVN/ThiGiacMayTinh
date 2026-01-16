@@ -137,7 +137,7 @@ array_sq[upper:lower, left:right, :] = 0
 
 ---
 
-## 🏁 Kết quả (Output)
+## Kết quả (Output)
 
 Khi chạy notebook, bạn sẽ thu được:
 
@@ -147,6 +147,7 @@ Hiểu rõ **copy vs aliasing** (lỗi trỏ chung bộ nhớ)
 Thay đổi pixel theo vùng (tạo vùng màu đen hoặc chỉ giữ 1 kênh màu)  
 Ảnh được **vẽ rectangle + chèn chữ**  
 (PIL) Dán một phần ảnh lên ảnh khác bằng **paste/overlay**  
+
 
 
 
